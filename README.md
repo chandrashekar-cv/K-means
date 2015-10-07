@@ -9,3 +9,4 @@ Command line arguments:
 3rd argument: convergence threshold (if change between 2 iterations is smaller than this threshold, converged).    
 4th argument: maximum number of iterations (stops after max number of trials even if convergence threshold not met)    
 5th argument: input file name    
+For clearer picture download kmeans.py and execute "python kmeans.py -h" on your command line interface.
