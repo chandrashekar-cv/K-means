@@ -1,6 +1,6 @@
 __author__ = 'Chandu'
 import argparse,copy,os
-import random,math, codecs
+import random,math
 
 #Command line argument description
 parser = argparse.ArgumentParser()
